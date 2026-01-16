@@ -2,9 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=fea9d6,af38f4&text=Growing%20Backend%20Developer&fontColor=ffffff&fontSize=36&desc=보이지%20않는%20곳을%20만드는%20백엔드%20개발자&descAlignY=70)
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=FFB1C1,B19CD9&text=Growing%20Backend%20Developer&fontColor=ffffff&fontSize=36&desc=보이지%20않는%20곳을%20만드는%20백엔드%20개발자&descAlignY=70)
-
-![header](https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=FFD1DC,E0C3FC&text=Growing%20Backend%20Developer&fontColor=5C5C5C&fontSize=36&desc=보이지%20않는%20곳을%20만드는%20백엔드%20개발자&descAlignY=70)
+![header](https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=FFC1CC,E0C3FC&text=Growing%20Backend%20Developer&fontColor=ffffff&fontSize=36&desc=보이지%20않는%20곳을%20만드는%20백엔드%20개발자&descAlignY=70&section=header)
 
 ### ⚙️ Backend Developer in Progress
 
