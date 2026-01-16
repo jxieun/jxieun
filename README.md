@@ -24,6 +24,7 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black)
 ![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square)
@@ -40,6 +41,8 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Milvus](https://img.shields.io/badge/Milvus-19B4FF?style=flat-square&logo=milvus&logoColor=white)
 ![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -115,6 +118,13 @@
 **AWS 기반의 야구 정보 제공 및 활동 기록 플랫폼** - **Cloud Infrastructure**: AWS EC2를 활용한 서버 배포 및 운영
 - **Data Management**: AWS S3를 활용한 대용량 데이터 관리 및 MySQL(`baseball_db`) 설계
 - **Core Features**: 사용자 인증 시스템(`auth`) 및 일상 기록(`diary`) 기능 구현
+
+### 🏨 Hotel Kiosk System (Software Engineering Course Project)
+**다국어 지원 및 관리자 기능을 포함한 호텔 키오스크 시스템**
+- **Framework**: Flask(Python)를 활용한 경량 웹 서버 구축 및 효율적인 라우팅 설계
+- **i18n Support**: 한국어, 영어, 중국어 3개 국어에 대한 동적 번역 매핑 로직을 통한 글로벌 사용자 경험 제공
+- **Admin Features**: 객실 상태(Clean/Dirty) 추적 및 실시간 요금 조정(성수기/주말/조식 등) 비즈니스 로직 구현
+- **Status**: Currently planning for further optimizations and feature expansions to enhance system stability.
 
  
 
