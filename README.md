@@ -93,33 +93,33 @@
 
 ## 🚀 Projects
 
-### 📔 Record Service Backend (PetLog MSA)
+### 1. 📔 Record Service Backend (PetLog MSA)
 **AI 기반 반려동물 일기 및 산책 기록 서비스**  
 - **AI Diary Assistant**: OpenAI 연동을 통한 일기 초안 자동 생성 및 커스텀 스타일 적용
 - **Spatial Tracking**: PostGIS를 활용한 산책 경로(LineString) 저장 및 위치 데이터 처리
 - **Event-Driven**: Kafka를 활용하여 일기 이벤트를 타 마이크로서비스로 실시간 브로드캐스팅
 - **Semantic Search**: Milvus Vector DB를 연동하여 일기 본문의 시맨틱 검색 환경 구축
 
-### 💻 Frontend
+### Frontend
 - **Interactive AI Diary UX**: React 18과 Framer Motion을 활용하여 '업로드-생성-편집-완료'로 이어지는 몰입감 있는 멀티 스텝 다이어리 생성 인터페이스
 - **Custom Style Engine**: 그리드, Masonry, 콜라주 등 다양한 레이아웃과 빈티지, 레트로 등 10여 종의 테마를 실시간으로 적용할 수 있는 다이어리 편집 엔진
 - **Real-time Location Tracker**: Geolocation API를 통해 사용자 위치를 20분 간격으로 자동 수집하며, 토큰 기반 인증 상태에 따라 추적을 제어하는 백그라운드 시스템
 - **Visual Memory Archive**: AI 리캡(Recap) 생성 상태를 실시간으로 폴링하고 시각적 요소를 결합한 타일형 대시보드를 통해 사용자 경험을 고도화
 
-### ⚾ KBO Data Analysis (Mini Project 1)
+### 2. ⚾ KBO Data Analysis (Mini Project 1)
 **KBO 리그 데이터 스크래핑 및 시각화 대시보드**
 - **Visualization**: Streamlit을 활용한 대화형 데이터 시각화 웹 애플리케이션 구축
 - **Analysis**: KBO 경기 일정, 관중 현황, 팀별 승률 데이터 분석 및 상관관계 도출
 - **Data Scraping**: Python(BeautifulSoup)을 활용한 야구 통계 데이터 수집 및 전처리
 
-### 🏠 Every Moment (Dormitory Matching Service) (Mini Project 2)
+### 3. 🏠 Every Moment (Dormitory Matching Service) (Mini Project 2)
 **사용자 성향 분석 기반의 기숙사 룸메이트 매칭 서비스**
 - **Matching System**: 성별, 흡연 여부 등 설문 데이터 기반의 매칭 점수 산출 알고리즘 및 룸메이트 추천 기능 개발
 - **Security & Auth**: Spring Security와 JWT를 결합한 토큰 기반 인증 시스템으로 회원 데이터 보호 및 로그인 구현
 - **Database Migration**: Flyway를 도입하여 MariaDB(`dormdb`)의 스키마 버전을 체계적으로 관리 및 자동화
 - **API Spec**: Springdoc(Swagger)을 연동하여 프론트엔드 협업을 위한 REST API 문서화 자동화
 
- ### 🤖 Robo-Advisor Service (Investment Counseling & Analysis) (Mini Project 3)
+ ### 4. 🤖 Robo-Advisor Service (Investment Counseling & Analysis) (Mini Project 3)
 **AI 챗봇 기반 투자 상담 및 주식 기술 분석 서비스**
 - **Frontend Architecture**: React 19와 Vite를 기반으로 고성능 웹 환경을 구축하고, Tailwind CSS를 활용해 사용자 친화적인 반응형 대시보드 UI 구현
 - **AI Consultation**: WebClient와 비동기 처리를 활용하여 외부 AI 서비스와 연동한 투자 상담 챗봇 구현
@@ -128,7 +128,7 @@
 - **Collaborated with Team**:
   - **Session Management**: Redis와 Spring Session을 활용한 안정적인 세션 및 캐시 관리 구현 (팀원 구현 부분 이해 및 연동)
 
-### ⚾ Baseball Web Service (University Capstone Project)
+### 5. ⚾ Baseball Web Service (University Capstone Project)
 **AWS 기반의 야구 정보 제공 및 활동 기록 플랫폼** 
 - **Cloud Infrastructure**: AWS EC2를 활용한 서버 배포 및 운영
 - **Data Management**: AWS S3를 활용한 대용량 데이터 관리 및 MySQL(`baseball_db`) 설계
@@ -136,7 +136,7 @@
 - **Status**: Currently planning for further optimizations and feature expansions to enhance system stability.
 
 
-### 🏨 Hotel Kiosk System (Software Engineering Course Project)
+### 6. 🏨 Hotel Kiosk System (Software Engineering Course Project)
 **다국어 지원 및 관리자 기능을 포함한 호텔 키오스크 시스템**
 - **Framework**: Flask(Python)를 활용한 경량 웹 서버 구축 및 효율적인 라우팅 설계
 - **i18n Support**: 한국어, 영어, 중국어 3개 국어에 대한 동적 번역 매핑 로직을 통한 글로벌 사용자 경험 제공
