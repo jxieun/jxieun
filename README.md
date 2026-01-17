@@ -2,6 +2,14 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=FFC1CC,E0C3FC&text=Growing%20Backend%20Developer&fontColor=ffffff&fontSize=36&desc=끊임없는%20배움으로%20견고한%20시스템을%20만드는%20개발자&descAlignY=25&section=header_top)
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jxieun&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/jxieun"
+  width="600"
+  height="300"
+/>
+</a>
+
 ## ⚙️ Backend Developer in Progress
 
 > "화면 뒤에서 돌아가는 로직, 서버, 데이터 흐름을 만듭니다."  
