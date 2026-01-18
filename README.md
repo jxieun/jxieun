@@ -153,6 +153,7 @@
 - **Status**: Currently planning for further optimizations and feature expansions to enhance system stability.
 
 ### 7. 🎵 MusicStory (Web Standard Technology Course Project)
+https://github.com/jxieun/2023-2-University-WebProject  
 **웹 표준을 준수한 음악 정보 공유 및 투표 커뮤니티**
 - **Web Standards**: HTML5 시멘틱 태그를 활용한 구조적 마크업 및 크로스 브라우징 호환성 확보
 - **UI/UX Design**: float, position 등을 활용한 레이아웃 설계 및 직관적인 드롭다운 네비게이션 구현
