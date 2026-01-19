@@ -151,7 +151,7 @@
 - **Framework**: Flask(Python)를 활용한 경량 웹 서버 구축 및 효율적인 라우팅 설계
 - **i18n Support**: 한국어, 영어, 중국어 3개 국어에 대한 동적 번역 매핑 로직을 통한 글로벌 사용자 경험 제공
 - **Admin Features**: 객실 상태(Clean/Dirty) 추적 및 실시간 요금 조정(성수기/주말/조식 등) 비즈니스 로직 구현
-- **Status**: Currently planning for further optimizations and feature expansions to enhance system stability.
+- **Status**: Successfully modernized the entire UI with a sophisticated Black/Gray theme, implementing custom frontend components and optimizing responsiveness for a premium user experience.
 
 ### 7. 🎵 MusicStory (Web Standard Technology Course Project)
 https://github.com/jxieun/2023-2-University-WebProject  
