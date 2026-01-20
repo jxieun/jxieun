@@ -117,6 +117,7 @@
 - **Visual Memory Archive**: AI 리캡(Recap) 생성 상태를 실시간으로 폴링하고 시각적 요소를 결합한 타일형 대시보드를 통해 사용자 경험을 고도화
 
 ### 2. ⚾ KBO Data Analysis (Mini Project 1)
+https://github.com/jxieun/KBO_Project_PJ1  
 **KBO 리그 데이터 스크래핑 및 시각화 대시보드**
 - **Visualization**: Streamlit을 활용한 대화형 데이터 시각화 웹 애플리케이션 구축
 - **Analysis**: KBO 경기 일정, 관중 현황, 팀별 승률 데이터 분석 및 상관관계 도출
