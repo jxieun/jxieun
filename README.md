@@ -171,7 +171,7 @@ https://github.com/jxieun/2023-2-University-WebProject
   
 ## 📫 Contact
 
-<a href="https://velog.io/@Seolhxx" target="_blank"><img style="margin-right: 8px;" src="https://img.shields.io/badge/Velog-000?style=social&logo=velog&logoColor=20C997"/></a>
+<a href="[https://velog.io/@Seolhxx](https://velog.io/@seolhxx_/posts)" target="_blank"><img style="margin-right: 8px;" src="https://img.shields.io/badge/Velog-000?style=social&logo=velog&logoColor=20C997"/></a>
 <a href="mailto:xxrosevly@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-000?style=social&logo=gmail&logoColor=D14836"/></a>
 
 </div>
