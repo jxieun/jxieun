@@ -124,8 +124,8 @@ https://github.com/jxieun/KBO_Project_PJ1
 - **Data Scraping**: Python(BeautifulSoup)을 활용한 야구 통계 데이터 수집 및 전처리
 
 ### 3. 🏠 Every Moment (Dormitory Matching Service) (Mini Project 2)
-https://github.com/jxieun/every_moment_front
-https://github.com/jxieun/every_moment_back
+https://github.com/jxieun/every_moment_front  
+https://github.com/jxieun/every_moment_back  
 **사용자 성향 분석 기반의 기숙사 룸메이트 매칭 서비스**
 - **Matching System**: 성별, 흡연 여부 등 설문 데이터 기반의 매칭 점수 산출 알고리즘 및 룸메이트 추천 기능 개발
 - **Security & Auth**: Spring Security와 JWT를 결합한 토큰 기반 인증 시스템으로 회원 데이터 보호 및 로그인 구현
