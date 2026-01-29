@@ -111,6 +111,7 @@
 - **Semantic Search**: Milvus Vector DB를 연동하여 일기 본문의 시맨틱 검색 환경 구축
 
 ### Frontend
+https://github.com/jxieun/Frontend  
 - **Interactive AI Diary UX**: React 18과 Framer Motion을 활용하여 '업로드-생성-편집-완료'로 이어지는 몰입감 있는 멀티 스텝 다이어리 생성 인터페이스
 - **Custom Style Engine**: 그리드, Masonry, 콜라주 등 다양한 레이아웃과 빈티지, 레트로 등 10여 종의 테마를 실시간으로 적용할 수 있는 다이어리 편집 엔진
 - **Real-time Location Tracker**: Geolocation API를 통해 사용자 위치를 20분 간격으로 자동 수집하며, 토큰 기반 인증 상태에 따라 추적을 제어하는 백그라운드 시스템
