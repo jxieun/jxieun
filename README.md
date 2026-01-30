@@ -134,6 +134,7 @@ https://github.com/jxieun/every_moment_back
 - **API Spec**: Springdoc(Swagger)을 연동하여 프론트엔드 협업을 위한 REST API 문서화 자동화
 
  ### 4. 🤖 Robo-Advisor Service (Investment Counseling & Analysis) (Mini Project 3)
+ https://github.com/jxieun/BE  
 **AI 챗봇 기반 투자 상담 및 주식 기술 분석 서비스**
 - **Frontend Architecture**: React 19와 Vite를 기반으로 고성능 웹 환경을 구축하고, Tailwind CSS를 활용해 사용자 친화적인 반응형 대시보드 UI 구현
 - **AI Consultation**: WebClient와 비동기 처리를 활용하여 외부 AI 서비스와 연동한 투자 상담 챗봇 구현
